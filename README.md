@@ -5,4 +5,4 @@ Learning Basic of:
 3. JavaScript
 
 # View
-## [Assignment1](https://deepaksharma01.github.io/JS/Assignment1/index.html){:target="_blank" rel="noopener"}
+## [Assignment1](https://deepaksharma01.github.io/JS/Assignment1/index.html)
