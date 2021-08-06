@@ -5,5 +5,4 @@ Learning Basic of:
 3. JavaScript
 
 # View
-## Project1: 
-https://deepaksharma01.github.io/JS/Assignment1/index.html
+## [Assignment1](https://deepaksharma01.github.io/JS/Assignment1/index.html)
