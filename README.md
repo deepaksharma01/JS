@@ -6,4 +6,4 @@ Learning Basic of:
 
 # View
 ## Project1: 
-https://deepaksharma01.github.io/JS/Assignment1/index
+https://deepaksharma01.github.io/JS/Assignment1/index.html
