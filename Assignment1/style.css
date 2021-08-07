@@ -14,6 +14,7 @@ body
 {
     width:40%;
     margin-left:11%;
+    font-family: monospace
 }
 input
 {
@@ -27,6 +28,7 @@ input
 {
     width: 40%;
     margin-left:24.2%;
+    font-family: cursive
 }
 button
 {
