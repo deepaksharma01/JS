@@ -14,7 +14,7 @@ body
 {
     width:40%;
     margin-left:11%;
-    font-family: monospace
+
 }
 input
 {
@@ -23,12 +23,13 @@ input
     padding:8px;
     background-color: whitesmoke;
     border-color: white;
+    font-family: monospace
 }
 .button
 {
     width: 40%;
     margin-left:24.2%;
-    font-family: cursive
+ 
 }
 button
 {
@@ -36,7 +37,8 @@ button
     padding:4px;
     border-color: tomato;
     background-color: tomato;
-    color: white
+    color: white;
+    font-family: cursive
 }
 .nav
 {
