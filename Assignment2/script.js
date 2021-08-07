@@ -1,8 +1,9 @@
 function reverse()
 {
      let a = (document.querySelector("#val1").value)
-     if (a==0){
-          document.querySelector("#result").innerHTML = "<p>Please Enter the Elements of Array!<p>"
+     if (a=='')
+     {
+          document.querySelector("#result1").innerHTML = "<p>Please Enter the Elements of Array!<p>"
           return
      }
      arr = a.split(" ")
@@ -23,6 +24,10 @@ function reverse()
 function divisibility()
 {
      let n = (document.querySelector("#val2").value)
+     if (n==''){
+          document.querySelector("#result2").innerHTML = "<p>Please Enter any value!<p>"
+          return
+     }
      let arr = []
      for(i=0;i<=n;i++){
           if (i%5==0)
