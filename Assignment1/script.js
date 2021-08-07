@@ -2,6 +2,10 @@ function calculate()
 {
      let a = Number(document.querySelector("#val1").value)
      let b = Number(document.querySelector("#val2").value)
+     if (a==0 || b==0){
+          document.querySelector("#result").innerHTML = "<p>Please Enter the Values!<p>"
+          return
+     }
 
      document.querySelector("#result").innerHTML = "<h1>Output:<h1>"
 
