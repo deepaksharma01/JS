@@ -1,3 +1,9 @@
+let inputs = document.querySelectorAll('input')
+let btnclear = document.querySelector('#btn2')
+btnclear.addEventListener('click', () =>{
+    inputs.forEach(input => input.value = '')
+})
+
 function calculator()
 {
     let a = Number(document.querySelector("#val1").value)
