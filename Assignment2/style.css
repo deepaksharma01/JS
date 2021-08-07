@@ -1,0 +1,61 @@
+:root
+{
+    --primary:#283c86;
+    --secondary:#45a247;
+}
+body
+{
+    background: linear-gradient(90deg, var(--primary), var(--secondary));
+    padding-left: 2%;
+    color: white;
+    font-family:cursive;
+}
+.textfeild
+{
+    width:40%;
+    margin-left:11%;
+
+}
+input
+{
+    width: 100%;
+    margin-bottom: 10px;
+    padding:8px;
+    background-color: whitesmoke;
+    border-color: white;
+    font-family: monospace
+}
+.button
+{
+    width: 40%;
+    margin-left:24.2%;
+ 
+}
+button
+{
+    width: 35%;
+    padding:4px;
+    border-color: tomato;
+    background-color: tomato;
+    color: white;
+    font-family: cursive
+}
+.nav
+{
+    position: fixed;
+    bottom: 0;
+    width: 95%;
+}
+.tab
+{
+    tab-size: 8;
+}
+.nav a 
+{
+    float: right;
+    color: white;
+    text-align: center;
+    padding: 14px 30px;
+    text-decoration: none;
+    font-size: 17px;
+}
