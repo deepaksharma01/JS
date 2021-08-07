@@ -4,22 +4,22 @@
     <title>Assignment1</title>
     <link rel = "stylesheet" href="style.css">
 </head>
-  
 <body>
-  
     <h1>Assignment1</h1>
-  
     <h4>
         Question 1: Create two variables and perform all arithmetic (addition, subtraction..etc ) operations and print the result in the console using templating syntax.
     </h4>
-  
     <h4>Solution:</h4>
+    <div class="textfeild">
+        <input id="val1" type="text" placeholder="Enter first number"><br>
+        <input id="val2" type="text" placeholder="Enter second number"><br>
+    </div>
+    
+    <div class="button">
+        <button id="btn1" onclick="calculator()">Calculate</button>
+        <button id="btn2">Clear</button>
+    </div>
 
-    <input id="val1" type="text" placeholder="Enter first number">
-    <input id="val2" type="text" placeholder="Enter second number">
-  
-    <button onclick="calculator()">Calculate</button>
-  
     <p id="result"></p>
     <p id="sum"></p>
     <p id="sub"></p>
@@ -27,9 +27,10 @@
     <p id="div"></p>
 
     <div class="nav">
+
         <a href="https://github.com/deepaksharma01/JS.git" class="active" target="_blank">Github link</a>
+
     </div>
-  
     <script src="script.js" ></script>
 </body>
 </html>
