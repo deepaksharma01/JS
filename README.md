@@ -4,7 +4,9 @@ Learning Basic of:
 2. CSS 
 3. JavaScript
 
+## website link: https://deepak-js.web.app/
+
 # View
-## [Assignment1](https://deepaksharma01.github.io/JS/Assignment1/index.html)
-## [Assignment2](https://deepaksharma01.github.io/JS/Assignment2/index.html)
-## [Assignment3](https://deepaksharma01.github.io/JS/Assignment3/index.html)
+## [Assignment1](https://deepak-js.web.app/assignment1.html)
+## [Assignment2](https://deepak-js.web.app/assignment2.html)
+## [Assignment3](https://deepak-js.web.app/assignment3.html)
